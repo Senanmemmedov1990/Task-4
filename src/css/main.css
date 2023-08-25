@@ -33,7 +33,7 @@ outline: 0;
     background-color: #F4623A;
     padding: 20px 40px;
     border-radius: 40px;
-    
+  
 }
 
 /* ---------------information--------------- */
@@ -56,5 +56,23 @@ font-size: 20px;
 padding: 20px 40px;
 border-radius: 40px;
 font-weight: bold;
+
+}
+.download {
+height: 350px;
+background-color: #212529;
+text-align: center;
+padding: 100px;
+color: white;
+}
+.download > h2{
+font-size: 35px;
+margin: 25px;
+}
+.download > button {
+padding: 20px 40px;
+font-weight: bold;
+border-radius: 40px;
+
 
 }
