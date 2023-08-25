@@ -1,0 +1,16 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+
+}
+
+#header {
+    height:740px;
+    width: 100%;
+    background-image: url("../image/bg-masthead.jpg");
+    background-position-y: -150px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
